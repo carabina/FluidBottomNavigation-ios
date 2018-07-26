@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/FluidTabBarController.svg?style=flat)](https://cocoapods.org/pods/FluidTabBarController)
 
 <p align="left">
-  <img src="Static/example.gif" alt="Sample FluidTabBarController"/>
+  <img src="https://github.com/10clouds/FluidBottomNavigation-ios/Static/example.gif" alt="Sample FluidTabBarController"/>
 </p>
 
 ## Example
@@ -48,7 +48,7 @@ You can change the color of selected item's text by setting the tint color of th
 `tabBarController.tabBar.tintColor = UIColor.red`
 
 <p align="left">
-  <img src="Static/tint_color_example.png" alt="Sample FluidTabBarController"/>
+  <img src="https://github.com/10clouds/FluidBottomNavigation-ios/Static/tint_color_example.png" alt="Sample FluidTabBarController"/>
 </p>
 
 You can also change the color of icons by specifying `imageColor` and `highlightImageColor` or text color by modifying `textColor` and `highlightTextColor`.
